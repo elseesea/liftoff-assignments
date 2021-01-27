@@ -16,6 +16,10 @@ For this assignment, you'll create some initial plans for your project.
 * [Create/Edit Task & Start/Stop Timer](https://github.com/elseesea/liftoff-assignments/blob/master/P3-Project_Planning/IMG_20210126_175855858.jpg)
 * [Search Tasks](https://github.com/elseesea/liftoff-assignments/blob/master/P3-Project_Planning/IMG_20210126_175905072.jpg)
 
+### User Stories
+
+[User Stories](https://docs.google.com/document/d/1iq6GVmUw8WgPoZ8EZPBVyOPiDbWe1OSDoHQhJRESOck/edit?usp=sharing)
+
 ### Project Tracker
 
 [Project-Time-Tracker](https://trello.com/b/T0U4582q/project-task-time-tracker) on Trello
