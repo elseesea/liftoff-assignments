@@ -18,8 +18,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-https://trello.com/b/T0U4582q/project-task-time-tracker
+[Project-Task-Time-Tracker](https://trello.com/b/T0U4582q/project-task-time-tracker)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Project-Time-Tracker](https://github.com/elseesea/project-time-tracker) on GitHub.
