@@ -18,7 +18,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### User Stories
 
-[User Stories](https://docs.google.com/document/d/1iq6GVmUw8WgPoZ8EZPBVyOPiDbWe1OSDoHQhJRESOck/edit?usp=sharing)
+[User Stories](https://docs.google.com/document/d/1iq6GVmUw8WgPoZ8EZPBVyOPiDbWe1OSDoHQhJRESOck/edit?usp=sharing) on Googld Docs
 
 ### Project Tracker
 
