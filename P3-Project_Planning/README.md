@@ -22,7 +22,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-[Project-Time-Tracker](https://trello.com/b/T0U4582q/project-task-time-tracker) on Trello
+[Project-Time-Tracker](https://trello.com/b/T0U4582q/project-time-tracker) on Trello
 
 ### Project Repo Link
 
