@@ -7,4 +7,4 @@ https://github.com/elseesea?tab=repositories
 
 ### Resume
 
-[Lih Chen's resume](https://github.com/elseesea/??) updated Tuesday 2021-02-09.
+[Lih Chen's resume (PDF format)](https://github.com/elseesea/liftoff-assignments/tree/master/C1-Online_Profiles/resume.pdf) updated Tuesday 2021-02-09.
