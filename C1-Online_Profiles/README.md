@@ -1,5 +1,4 @@
 ### GitHub
-https://github.com/elseesea?tab=repositories
 [Lih Chen's Github](https://github.com/elseesea)
  
 ### LinkedIn
