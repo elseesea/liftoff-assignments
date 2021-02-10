@@ -16,7 +16,7 @@ clients for time spent on the tasks.
 
 ## Features
 
-**Maintain projects & tasks entries**: Users can create, update, delete & view projects
+**__Maintain projects & tasks entries__**: Users can create, update, delete & view projects
 and tasks.
 
 **Time entries**: Enter time spent on tasks.
