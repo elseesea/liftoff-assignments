@@ -1,9 +1,9 @@
 # Project Repository
 See the [repository](https://github.com/elseesea/project-time-tracker) for the Project-Time-Tracker.
 
-# Overview
+## Overview
 
-My app is a Project-Task Time Tracker.
+This app is a Project-Task Time Tracker.
 Users can use this browser-based tracker to track projects and associated tasks.
 A task can have detailed description, and a project can have many tasks.
 Users can also track the time spent on each task, by manually entering the start
@@ -16,12 +16,12 @@ clients for time spent on the tasks.
 
 ## Features
 
-Maintain projects & tasks entries: Users can create, update, delete & view projects
+**Maintain projects & tasks entries**: Users can create, update, delete & view projects
 and tasks.
 
-Time entries: Enter time spent on tasks.
+**Time entries**: Enter time spent on tasks.
 
-Report on total time spent by user, by project, by month, or a combination thereof.
+**Report** on total time spent by user, by project, by month, or a combination thereof.
 
 ## Technologies
 
