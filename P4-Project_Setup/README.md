@@ -1,5 +1,5 @@
 # Project Repository
-Project-Time-Tracker [repository](https://github.com/elseesea/project-time-tracker)
+See the [repository](https://github.com/elseesea/project-time-tracker) for the Project-Time-Tracker.
 
 # Overview
 
